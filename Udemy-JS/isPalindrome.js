@@ -1,3 +1,6 @@
+// reversing word(s) keep the same format
+// return true or false
+
 function isPalindrome(string) {
     string = string.toLowerCase();
     var charactersArr = string.split('');
