@@ -24,3 +24,9 @@ function maximumToys(prices, k) {
     return counter;
 }
 console.log(maximumToys([1, 2,3, 4, 6,7,8], 7))
+
+
+
+
+
+
