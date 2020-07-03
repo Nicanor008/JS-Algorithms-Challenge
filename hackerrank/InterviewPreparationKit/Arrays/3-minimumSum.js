@@ -13,8 +13,8 @@ function minimumSwaps(arr) {
                 swap++;
             }
     }
-    console.log(swap)
+    return swap
 }
 
 const arr = [4, 4, 3, 1, 2]
-minimumSwaps(arr)
+console.log(minimumSwaps([4, 4, 3, 1, 2]))

@@ -47,4 +47,4 @@ const arr = [
     [0, 0, 1, 2, 4, 0]
 ]
 
-hourglassSum(arr)
+console.log(hourglassSum(arr))

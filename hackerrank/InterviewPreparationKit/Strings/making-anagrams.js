@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/making-anagrams/problem
+
 // Complete the makeAnagram function below.
 function makeAnagram(a, b) {
     let counter = {};
