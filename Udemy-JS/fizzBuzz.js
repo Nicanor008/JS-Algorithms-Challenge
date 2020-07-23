@@ -12,4 +12,4 @@ function fizzBuz(num) {
     }
 }
 
-fizzBuz(20)
+console.log(fizzBuz(10))
