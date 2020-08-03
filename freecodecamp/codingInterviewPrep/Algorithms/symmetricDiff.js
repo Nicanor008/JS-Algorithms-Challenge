@@ -1,3 +1,4 @@
+// remove duplicates of 
 function sym(args) {
   // The slice() method is used to break down the arguments object to an array, args.
   var args = Array.prototype.slice.call(arguments);

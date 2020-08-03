@@ -15,7 +15,7 @@ function updateInventory(arr1, arr2) {
       arr1.push(arr2[i]);
     } else {
       var index = newArr.indexOf(arr2[i][1]); // get the index
-      arr1[index] = arr1[index][0] + arr2[i][0]; //get quantity
+      arr1[index][0] = arr1[index][0] + arr2[i][0]; //get quantity
     }
   }
 
